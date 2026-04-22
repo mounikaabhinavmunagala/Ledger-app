@@ -1,6 +1,8 @@
 streamlit
-st-gsheets-connection
 pandas
 google-generativeai
 Pillow
 openpyxl
+gspread
+google-auth
+
